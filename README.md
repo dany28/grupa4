@@ -6,3 +6,6 @@ To jest opis projektu
 
 # dodatkowy opis
 Ok
+
+# squash
+Czym sie rozni
